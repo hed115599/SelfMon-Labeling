@@ -1,6 +1,7 @@
 # SelfMon-Labeling
 
 The official implementation and source code for **Automatic image labeling framework based on multiple vision-language models and self-monitoring mechanism for animal monitoring**.
+![Fig6](./Fig6.jpg)
 
 ## Features
 
